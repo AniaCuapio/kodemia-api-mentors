@@ -1,0 +1,24 @@
+{
+  "name": "kodemia_api_mentores",
+  "version": "1.0.0",
+  "description": "api mentores",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "api",
+    "kodemia"
+  ],
+  "author": "ania",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
